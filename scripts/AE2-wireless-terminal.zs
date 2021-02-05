@@ -1,2 +1,16 @@
 /// --- Remove Booster Card Recipie
 recipes.remove(<ae2wct:infinityBoosterCard>);
+
+
+
+/// --- Add Booster Card Recipie
+mods.avaritia.ExtremeCrafting.addShaped(<ae2wct:infinityBoosterCard>, [
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:4>, <Avaritia:Resource:5>, <Avaritia:Resource:4>, <appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:4>, <Avaritia:Resource:5>, <Avaritia:Resource:4>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:4>, <Avaritia:Resource:5>, <Avaritia:Resource:4>, <appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:4>, <Avaritia:Resource:5>, <Avaritia:Resource:4>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>, <Avaritia:Resource:6>, <Avaritia:Resource:4>, <Avaritia:Resource:6>, <appliedenergistics2:item.ItemMultiMaterial:42>],
+[<appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>, <appliedenergistics2:item.ItemMultiMaterial:42>]]);
