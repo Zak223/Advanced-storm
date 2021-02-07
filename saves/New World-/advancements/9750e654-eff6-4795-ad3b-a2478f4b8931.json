@@ -1,0 +1,15 @@
+{
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2021-02-07 14:28:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "redwood_taiga": "2021-02-07 14:31:45 -0500",
+      "taiga": "2021-02-07 14:28:40 -0500"
+    },
+    "done": false
+  }
+}
