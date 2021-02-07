@@ -1,0 +1,20 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-02-07 16:01:40 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2021-02-07 16:01:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2021-02-07 16:01:39 -0500"
+    },
+    "done": false
+  }
+}

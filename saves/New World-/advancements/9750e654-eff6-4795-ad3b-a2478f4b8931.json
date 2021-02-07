@@ -1,4 +1,88 @@
 {
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2021-02-07 15:42:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-02-07 15:54:31 -0500"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2021-02-07 15:21:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2021-02-07 15:42:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2021-02-07 15:42:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-02-07 15:42:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2021-02-07 15:42:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-02-07 15:08:41 -0500"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2021-02-07 15:21:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2021-02-07 15:42:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2021-02-07 15:08:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2021-02-07 15:42:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-02-07 15:08:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-02-07 15:08:41 -0500"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2021-02-07 14:28:40 -0500"
@@ -8,7 +92,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "redwood_taiga": "2021-02-07 14:31:45 -0500",
-      "taiga": "2021-02-07 14:28:40 -0500"
+      "taiga": "2021-02-07 14:28:40 -0500",
+      "extreme_hills": "2021-02-07 15:03:16 -0500",
+      "river": "2021-02-07 15:03:12 -0500"
     },
     "done": false
   }
